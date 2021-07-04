@@ -1,3 +1,6 @@
 *.csv
 *.xlsx
 .ipynb_checkpoints/
+tree
+*.png
+
